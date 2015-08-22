@@ -25,7 +25,7 @@ echo .
 echo    ````````````$````````$
 echo    ````````````$````````$  *SmartAI Lab scripts*
 echo    $$$```$$$``$$$``$$$``$
-echo    $``$`````$``$``$```$`$$$$$    Cataclysm 4.3.4 (15595)
+echo    $``$`````$``$``$```$`$$$$$    Mists of Pandaria 5.4.8 (18414)
 echo    $$$```$$$$``$``$`````$```$          for Trinity Database original
 echo    $````$```$``$``$```$`$```$         
 echo    $`````$$$$``$$``$$$``$```$ 
